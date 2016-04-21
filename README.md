@@ -1,7 +1,7 @@
 # Java-Design-Patterns
 A Tour with 23 Gang of Four Design Patterns in Java - Vaskaran Sarcar
 
-# Creatinonal Patterns:
+# Creational Patterns:
 
 These patterns mainly deal with the instantiation process. 
 Here we make the systems independent from how their objects are created,
